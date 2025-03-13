@@ -1,2 +1,0 @@
-induk
-polymorphism.induk
