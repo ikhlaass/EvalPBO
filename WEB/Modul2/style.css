@@ -1,0 +1,66 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+
+.wrap {
+    background-color: blue;
+    width: 900px;
+    margin: 10px auto;
+}
+
+.wrap .header {
+    background-color: #0099ff;
+    padding: 2px 10px;
+    color: #fff;
+}
+
+.wrap .menu {
+    background: #0dead0;
+    color: white;
+}
+
+.wrap .menu ul {
+    padding: 0;
+    margin: 0;
+    background: #0dead0;
+    overflow: hidden;
+}
+
+.wrap .menu ul li {
+    float: left;
+    list-style-type: none;
+    padding: 10px;
+    color: blue;
+}
+
+.clear {
+    clear: both;
+}
+.badan {
+    height: 450px;
+}
+
+.wrap .badan .sidebar {
+    background: #0dead0;
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+
+
+.sidebar li {
+    margin-left: 10px;
+}
+
+.wrap .badan .content {
+    background: #ccffff;
+    float: left;
+    height: 100%;
+    width: 75%;
+}
+
+.wrap .footer {
+    width: 100%;
+    padding: 10px;
+}
