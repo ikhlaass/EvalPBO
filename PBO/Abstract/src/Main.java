@@ -14,5 +14,5 @@ public class Main {
         S.updateBonus(300000);
         S.totalGaji();
     }
-    
 }
+        

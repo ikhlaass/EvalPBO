@@ -4,7 +4,7 @@ public class Main {
         Transportasi Ts = new Transportasi("Kendaraan Laut");
         Ts.jenisTransportasi();
 
-        Ts = new Mobil("Kendaraan darat");
+        Ts = new Mobil("Kendaraan Darat");
         Ts.jenisTransportasi();
 
         Ts = new Pesawat("Kendaraan Udara");
@@ -12,3 +12,5 @@ public class Main {
     }
     
 }
+
+
