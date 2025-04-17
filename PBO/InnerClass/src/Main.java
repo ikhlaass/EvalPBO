@@ -1,9 +1,17 @@
 import java.util.Scanner;
 
+import javax.swing.JOptionPane;
+
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        
+        String inputNilai = JOptionPane.showInputDialog((""));
+
+        try {
+            int nilai = Integer.valueOf(inputNilai);
+        } catch (Exception e) {
+            JOptionPane.showMessageDialog(null, "Yang Anda Input Bukan Angka");
+        }
 
         System.out.println("=====DAFTAR NAHASISWA=====");
         System.out.print("Input Nama : ");
@@ -12,6 +20,7 @@ public class Main {
         String nim = input.nextLine();
         System.out.print("Input Prodi : ");
         String prodi = input.nextLine();
+
 
         Mahasiswa mahasiswa = new Mahasiswa(nama, nim, prodi);
 
