@@ -5,28 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e4ff07-f162-4de3-ac2d-aaf881f49735" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/.netbeans_automatic_build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/.netbeans_update_resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/PegawaiKontrak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/PegawaiKontrak.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/PegawaiTetap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/PegawaiTetap.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/induk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/induk.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/build/classes/polymorishm/main.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/nbproject/private/private.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/src/polymorishm/PegawaiKontrak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/src/polymorishm/PegawaiTetap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/src/polymorishm/induk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorishm/src/polymorishm/main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/EvalPBO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO/Inheritance/src/Ayam.java" beforeDir="false" afterPath="$PROJECT_DIR$/PBO/Inheritance/src/Ayam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO/Inheritance/src/Gajah.java" beforeDir="false" afterPath="$PROJECT_DIR$/PBO/Inheritance/src/Gajah.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO/Inheritance/src/Harimau.java" beforeDir="false" afterPath="$PROJECT_DIR$/PBO/Inheritance/src/Harimau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO/Inheritance/src/Hewan.java" beforeDir="false" afterPath="$PROJECT_DIR$/PBO/Inheritance/src/Hewan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO/Inheritance/src/Kucing.java" beforeDir="false" afterPath="$PROJECT_DIR$/PBO/Inheritance/src/Kucing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBO/Inheritance/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PBO/Inheritance/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2uElKM1MYGOOEnMLVz0N1oXTeKF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,12 +35,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/andi.ikhlass/Library/CloudStorage/OneDrive-Personal/DataData/SEMESTER4/PBO/folderlab"
+    "last_opened_file_path": "/Users/andi.ikhlass/Library/CloudStorage/OneDrive-Personal/DataData/SEMESTER4/PBO/EvalPBO"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
