@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PBO.iml" filepath="$PROJECT_DIR$/.idea/PBO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuKasA/stuKasA.iml" filepath="$PROJECT_DIR$/stuKasA/stuKasA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuKasB/stuKasB.iml" filepath="$PROJECT_DIR$/stuKasB/stuKasB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuKasC/stuKasC.iml" filepath="$PROJECT_DIR$/stuKasC/stuKasC.iml" />
+    </modules>
+  </component>
+</project>
